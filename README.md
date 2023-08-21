@@ -17,4 +17,4 @@
 
 ##
 
-![Snake animation](https://github.com/{{guilhermefranco21}}/{{guilhermefranco21}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guilhermefranco21/guilhermefranco21/blob/output/github-contribution-grid-snake.svg)
